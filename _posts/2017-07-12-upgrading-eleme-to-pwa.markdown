@@ -8,8 +8,8 @@ header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 服务器开发
-    - IoT开发
+    - Server development
+    - MCU小记
     - BC35-G
 ---
 
